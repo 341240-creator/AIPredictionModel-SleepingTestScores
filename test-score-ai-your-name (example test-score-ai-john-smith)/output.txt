@@ -1,0 +1,2 @@
+The AI predicted a test score of _____ for a student
+who studied 6 hours and slept 8 hours.
